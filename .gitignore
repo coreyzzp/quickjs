@@ -6,6 +6,7 @@ hello.c
 libquickjs.a
 libquickjs.lto.a
 qjs
+qjs-debug
 qjsc
 qjscalc
 qjscalc.c
